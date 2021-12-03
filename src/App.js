@@ -13,7 +13,7 @@ const App = () => {
   return (
 
     <div>
-      <Router>
+      <HashRouter>
         <NavBar />
         <LoadingBar
           color='#f11946'
@@ -29,7 +29,7 @@ const App = () => {
           <Route exact path="/sports" element={<News setProgress={setprogress} apiKey={apiKey} key='sports' pageSize={pageSize} country='in' category='sports' />}></Route>
           <Route exact path="/technology" element={<News setProgress={setprogress} apiKey={apiKey} key='technology' pageSize={pageSize} country='in' category='technology' />}></Route>
         </Routes>
-      </Router>
+      </HashRouter>
     </div>
   )
 
