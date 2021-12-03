@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/MediaMaze/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/MediaMaze/static/js/main.89c3068a.chunk.js",
+    "main.js.map": "/MediaMaze/static/js/main.89c3068a.chunk.js.map",
+    "runtime-main.js": "/MediaMaze/static/js/runtime-main.6a7e1cb6.js",
+    "runtime-main.js.map": "/MediaMaze/static/js/runtime-main.6a7e1cb6.js.map",
+    "static/js/2.ac53b944.chunk.js": "/MediaMaze/static/js/2.ac53b944.chunk.js",
+    "static/js/2.ac53b944.chunk.js.map": "/MediaMaze/static/js/2.ac53b944.chunk.js.map",
+    "static/js/3.d2ba1737.chunk.js": "/MediaMaze/static/js/3.d2ba1737.chunk.js",
+    "static/js/3.d2ba1737.chunk.js.map": "/MediaMaze/static/js/3.d2ba1737.chunk.js.map",
+    "index.html": "/MediaMaze/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/MediaMaze/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.ac53b944.chunk.js.LICENSE.txt": "/MediaMaze/static/js/2.ac53b944.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6a7e1cb6.js",
+    "static/js/2.ac53b944.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.89c3068a.chunk.js"
+  ]
+}
